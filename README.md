@@ -15,7 +15,14 @@ Same as nightWiring, you need to create a GPIO map table if you want to use GPIO
 ## Installation
 
 ```sh
-sudo python setup.py
+git clone https://github.com/nightseas/python-nightWiring
+cd python-nightWiring
+
+# Update C code from nightWiring
+git submodule init && git submodule update
+
+# Use sudo if permission denied
+python setup.py install
 ```
 
 ## Programming
