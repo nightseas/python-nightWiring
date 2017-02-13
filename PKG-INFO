@@ -6,7 +6,7 @@ Home-page: http://github.com/python-nightWiring
 Author: Xiaohai Li
 Author-email: haixiaolee@gmail.com
 License: GPLv3
-Description: This package is a python wrap for nightWiringiring.
+Description: This package is a python wrap for nightWiring lib.
 Platform: ARM
 Classifier: Environment :: Console
 Classifier: Intended Audience :: Developers
